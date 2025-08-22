@@ -7,3 +7,4 @@ CREATE TABLE Asistencia_Clases (
     FOREIGN KEY (id_clase) REFERENCES Clases(id_clase)
 );
 
+
