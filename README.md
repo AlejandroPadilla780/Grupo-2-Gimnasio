@@ -23,10 +23,17 @@ Este sistema está diseñado con una base de datos relacional en SQL.
 ## 👥 Integrantes del Equipo
 
 05 Ángeles Martínez
+
 26 Nahomy Zavala
+
 28 Tifanny Cáceres
+
 30 Alejandro Padilla
+
 34 Anibal Benites
+
 50 Jhohan Melgar
+
+## Diagrama Entidad - Relación
 
 ![diagrama entidad - relación](Archivos/Diagrama_ER.png)
