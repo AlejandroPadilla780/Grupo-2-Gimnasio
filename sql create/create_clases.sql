@@ -4,4 +4,4 @@ CREATE TABLE Clases (
     horario TIME,
     id_entrenador INT,
     FOREIGN KEY (id_entrenador) REFERENCES Entrenadores(id_entrenador)
-);
+); 

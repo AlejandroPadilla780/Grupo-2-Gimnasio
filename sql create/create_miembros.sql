@@ -5,4 +5,4 @@ CREATE TABLE Miembros (
     telefono VARCHAR(15),
     email VARCHAR(100),
     fecha_registro DATE DEFAULT (CURDATE())
-);
+); 

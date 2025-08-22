@@ -7,3 +7,4 @@ CREATE TABLE Pagos (
     FOREIGN KEY (id_miembro) REFERENCES Miembros(id_miembro),
     FOREIGN KEY (id_membresia) REFERENCES Membresias(id_membresia)
 );
+

@@ -6,3 +6,4 @@ CREATE TABLE Asistencia_Clases (
     FOREIGN KEY (id_miembro) REFERENCES Miembros(id_miembro),
     FOREIGN KEY (id_clase) REFERENCES Clases(id_clase)
 );
+
