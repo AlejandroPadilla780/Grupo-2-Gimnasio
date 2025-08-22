@@ -1,0 +1,1 @@
+SELECT tipo, precio FROM Membresias;
