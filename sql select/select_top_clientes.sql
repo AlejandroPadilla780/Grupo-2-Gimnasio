@@ -1,5 +1,3 @@
-select_08_top_clientes.sql
--- Miembros que más han pagado (TOP 5)
 SELECT m.nombre, m.apellido, SUM(p.monto) AS total_pagado
 FROM Pagos p
 JOIN Miembros m ON p.id_miembro = m.id_miembro
