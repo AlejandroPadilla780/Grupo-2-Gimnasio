@@ -1,5 +1,3 @@
-select_06_asistencia.sql
--- Registro de asistencia con nombres de miembros y clases
 SELECT m.nombre, m.apellido, c.nombre AS clase, a.fecha
 FROM Asistencia_Clases a
 JOIN Miembros m ON a.id_miembro = m.id_miembro
